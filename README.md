@@ -7,6 +7,6 @@
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella0811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriella0811&layout=compact)](https://github.com/gabriella0811/github-readme-stats)
 
 
