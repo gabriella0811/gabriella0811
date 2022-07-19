@@ -11,5 +11,5 @@
 
 
 
-
+[![image](https://user-images.githubusercontent.com/56557766/179812764-cb16bbaf-67d0-47c6-9ecb-155579e9f636.png)](https://www.linkedin.com/in/gabriella-dos-reis-da-trindade-50929b12a/)
 
