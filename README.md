@@ -10,3 +10,11 @@
 
 
 
+
+https://web.dio.me/users/gabriellareis_trindade?tab=achievements
+
+```
+git status
+git add
+git commit
+```
