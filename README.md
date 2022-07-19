@@ -1,7 +1,6 @@
 ![Gabriella Status](https://github-readme-stats.vercel.app/api?username=gabriella0811&show_icons=true&theme=dracula)
 
 
-https://mail.google.com/mail/u/0/#inbox
 
 
 
